@@ -1,4 +1,4 @@
-![image](https://github.com/julia123123/TestRepo/assets/144055202/9de4ae42-89ef-4ae6-9bb2-de61385bc728)OOPII_Project
+OOPII_Project
 This work is using Java language to implement a GUI interface and simulate the movement strategy (DFS、BFS、UCS).
 
 How to run?
@@ -9,11 +9,11 @@ Use following command to compile the program:
 javac A1073352_checkpoint7_DemoGame.java
 java A1073352_checkpoint7_DemoGame 0 4 20 2 (map_id jfScaler milliseconds algorithm)
 More about the algorithms you specify in the command line:
-0 -> DFS
-1 -> BFS
-2 -> UCS
+0 : DFS
+1 : BFS
+2 : UCS
 
-Outcome
+**Outcome**：
 Initial page:
 ![image](https://github.com/julia123123/TestRepo/assets/144055202/28db55d4-478d-4560-a57a-1dab15e57c9c)
 
